@@ -1,0 +1,3 @@
+Work in progress...
+I'm building scripts to aid in creating Homevolt schedules if you want to manage your battery yourself.
+There's no homevolt integration... yet
